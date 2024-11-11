@@ -31,8 +31,8 @@ Each repo contains detailed installation instructions, examples, and configurati
 
 We welcome contributions! To contribute:
 
-1. Check out the [Contribution Guide](#) (link to be added).
-2. Fork the repo you want to improve, make your changes, and submit a pull request.
+1. Check out the [Contribution Guide](../contributing.md).
+2. Please read the [Code Of Conduct](../code_of_conduct.md).
 
 ### 📬 Join the Community
 
@@ -41,4 +41,3 @@ Follow us on GitHub, discuss ideas, request features, and help improve darkvoid!
 ---
 
 Thank you for choosing darkvoid! Happy coding!
-
