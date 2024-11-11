@@ -15,7 +15,7 @@ More ports are being actively developed! Check out each individual repository be
 
 ### 📌 Repositories
 
-| Application  | Repository                                                       | Maintainer |
+| Application  | Repository                                                       | Author     |
 | ------------ | ---------------------------------------------------------------- | ---------- |
 | Neovim       | [darkvoid.nvim](https://github.com/darkvoid-theme/darkvoid.nvim) | @Aliqyan   |
 | Zed Editor   | [darkvoid-zed](https://github.com/darkvoid-theme/zed)            | @zoedsoupe |
