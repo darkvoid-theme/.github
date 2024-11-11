@@ -21,7 +21,7 @@ More ports are being actively developed! Check out each individual repository be
 | Zed Editor       | [darkvoid-zed](https://github.com/darkvoid-theme/zed)            | @zoedsoupe  |
 | Helix Editor     | [darkvoid-helix](https://github.com/darkvoid-theme/helix)        | @zoedsoupe  |
 | Warp Terminal    | [darkvoid-warp](https://github.com/darkvoid-theme/warp)          | @zoedsoupe  |
-| Wezterm Terminal | [darkvoid-warp](https://github.com/darkvoid-theme/wezterm)       | @aliqyan-21 |
+| Wezterm Terminal | [darkvoid-wezterm](https://github.com/darkvoid-theme/wezterm)    | @aliqyan-21 |
 
 > We’re always open to more ports! Feel free to submit a new theme port if you'd like to see darkvoid on other platforms.
 
