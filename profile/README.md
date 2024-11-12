@@ -1,6 +1,10 @@
 # Welcome to Darkvoid Theme 🌌
 
-**darkvoid-theme** is a monochromatic color scheme with optional glow effect, designed for developers who want a calm, minimalist, dark aesthetic across their tools. Originally crafted for Neovim as `darkvoid.nvim`, it’s now available in various editors and terminals, thanks to amazing contributions from amazing people.
+Have you ever been in a dark room, coding alone, surrounded by silence and the soft glow of your screen? That deep immersion, like a vast, quiet void, was the inspiration behind **darkvoid-theme**: an experience as profound as exploring an uncharted deep-sea trench lit only by strange, glowing creatures, or wandering through a cave where luminescent fungi paint the darkness... _Aah, the scenery!_
+
+**darkvoid** captures that atmosphere, emphasizing only the essentials—your code, your commands—leaving distractions in shadow. And if you want, you can even make it **glow**!
+
+**darkvoid-theme** is a monochromatic, minimalist color scheme with an optional glow effect, designed for developers seeking a calm, cohesive, and immersive aesthetic across their tools. Initially crafted for Neovim as `darkvoid.nvim`, this theme has expanded to other editors and terminals, thanks to the incredible support of contributors, especially, @zoedsoupe.
 
 ### ✨ Supported Editors and Terminals
 
