@@ -16,6 +16,7 @@ Our theme is available in:
 - **Warp Terminal**
 - **Wezterm Terminal**
 - **Rio Terminal**
+- **VsCode Editor**
 
 More ports are being actively developed! Check out each individual repository below for installation and configuration instructions.
 
@@ -29,6 +30,7 @@ More ports are being actively developed! Check out each individual repository be
 | Warp Terminal    | [darkvoid-warp](https://github.com/darkvoid-theme/warp)          | @zoedsoupe  |
 | Wezterm Terminal | [darkvoid-wezterm](https://github.com/darkvoid-theme/wezterm)    | @aliqyan-21 |
 | Rio Terminal     | [darkvoid-rio](https://github.com/darkvoid-theme/rio)            | @zoedsoupe  |
+| VsCode           | [darkvoid-vscode](https://github.com/darkvoid-theme/vscode)      | @aliqyan-21 |
 
 > We’re always open to more ports! Feel free to submit a new theme port if you'd like to see darkvoid on other platforms.
 
