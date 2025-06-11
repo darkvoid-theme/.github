@@ -31,6 +31,7 @@ More ports are being actively developed! Check out each individual repository be
 | Wezterm Terminal | [darkvoid-wezterm](https://github.com/darkvoid-theme/wezterm)    | @aliqyan-21 |
 | Rio Terminal     | [darkvoid-rio](https://github.com/darkvoid-theme/rio)            | @zoedsoupe  |
 | VsCode           | [darkvoid-vscode](https://github.com/darkvoid-theme/vscode)      | @aliqyan-21 |
+| Kitty            | [darkvoid-kitty](https://github.com/darkvoid-theme/kitty)        | @aliqyan-21 |
 
 > We’re always open to more ports! Feel free to submit a new theme port if you'd like to see darkvoid on other platforms.
 
